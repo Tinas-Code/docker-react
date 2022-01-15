@@ -2,7 +2,7 @@ name: Deploy Udemy-Docker-React
 on:
   push:
     branches:
-      - main
+      - master
  
 jobs:
   build:
